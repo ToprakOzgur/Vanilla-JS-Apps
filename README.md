@@ -1,5 +1,5 @@
-# Vanilla-JS-Aps
-Vanilla JS Aps
+# Vanilla-JS-Applications
+Vanilla JS Apps
 
 Simple Vanilla JavaScript apps for  learning Web Development.
 
