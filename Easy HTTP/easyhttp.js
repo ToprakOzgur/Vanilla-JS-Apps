@@ -1,3 +1,11 @@
+    /**
+     * EasyHTTP library
+     * for making HTTP requests
+     * @version 1.0.0
+     * @author Ozgur Toprak
+     * @license MIT
+     */
+
     function easyHTTP() {
       this.http = new XMLHttpRequest();
     }
