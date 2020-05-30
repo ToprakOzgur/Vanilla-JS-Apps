@@ -1,4 +1,4 @@
-const http = new EasyHTTPModern;
+const http = new EasyHTTPModern();
 
 // // Get Users
 // http.get('https://jsonplaceholder.typicode.com/users')
@@ -7,10 +7,10 @@ const http = new EasyHTTPModern;
 
 // User Data
 const data = {
-  name: 'Ozgur Toprak',
-  username: 'ozgurtoprak',
-  email: 'email@email.com'
-}
+  name: "Ozgur Toprak",
+  username: "ozgurtoprak",
+  email: "email@email.com",
+};
 
 //Create User
 // http.post('https://jsonplaceholder.typicode.com/users', data)
@@ -22,8 +22,8 @@ const data = {
 //   .then(data => console.log(data))
 //   .catch(err => console.log(err));
 
-
 // Delete User
-http.delete('https://jsonplaceholder.typicode.com/users/2')
-  .then(data => console.log(data))
-  .catch(err => console.log(err));
+http
+  .delete("https://jsonplaceholder.typicode.com/users/2")
+  .then((data) => console.log(data))
+  .catch((err) => console.log(err));
