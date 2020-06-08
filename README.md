@@ -4,7 +4,7 @@ Simple Vanilla JavaScript apps for learning Web Development.
 
 ## App List
 
-- [Movie Compare](Movie%Compare) : HTML, Bulma CSS, Vanilla JS, Axios
+- [Movie Compare](Movie%20Compare) : HTML, Bulma CSS, Vanilla JS, Axios
 - [Animated Clock](Animated%20Clock) : HTML, CSS, Vanilla JS
 - [TraCalorie](TraCalorie) : HTML, Bootstrap, Vanilla JS, Module Pattern
 - [Easy Http Library](Easy%20HTTP) : HTML, Vanilla JS, 3 versions(1-Ajax,callbacks and Prototypes , 2- ES6 Classes and Promises, 3- Async/Await)
