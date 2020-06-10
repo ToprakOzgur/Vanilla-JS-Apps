@@ -4,7 +4,7 @@ Simple Vanilla JavaScript apps for learning Web Development.
 
 ## App List
 
-- [Maze](Maze) : HTML, Vanilla JS, Matter.js
+- [Maze](maze) : HTML, Vanilla JS, Matter.js
 - [Movie Compare](Movie%20Compare) : HTML, Bulma CSS, Vanilla JS, Axios
 - [Animated Clock](Animated%20Clock) : HTML, CSS, Vanilla JS
 - [TraCalorie](TraCalorie) : HTML, Bootstrap, Vanilla JS, Module Pattern
