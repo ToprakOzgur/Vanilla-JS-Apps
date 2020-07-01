@@ -4,6 +4,7 @@ Simple Vanilla JavaScript apps for learning Web Development.
 
 ## App List
 
+- [Form](Form) : HTML,Bootstrap, Vanilla JS
 - [ECommerce](ECommerce) : Node.js, Express (basic ecommerce app templete)
 - [Maze](maze) : HTML, Vanilla JS, Matter.js
 - [Movie Compare](Movie%20Compare) : HTML, Bulma CSS, Vanilla JS, Axios
